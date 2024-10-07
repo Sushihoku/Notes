@@ -23,4 +23,5 @@ Here is an example of how I [forked this repo](https://github.com/fleetingnotes/
 
 ![[fn-website-demo.gif]]
 
+[[6. Свойства делимости в кольце целых чисел. Теорема о делении с остатком. 1.md]]
 
